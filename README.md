@@ -1,2 +1,2 @@
-# Nostrich_Hatchling_Guide
+# Nostrich Hatchling Guide
 A Nostr Guide for Hatchlings by Hatchlings 
