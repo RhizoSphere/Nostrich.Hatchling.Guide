@@ -5,7 +5,7 @@ A Nostr Guide for Hatchlings by Hatchlings
 - Purpose
 - Client Suggestion
 - Account Setup
- - About npub and nsec
+  - About npub and nsec
 - Zaps and The Lightning Network
 - Wallet Suggestions
 - Privacy & Security
@@ -20,4 +20,5 @@ A Nostr Guide for Hatchlings by Hatchlings
 - The Protocol
 - NIPs
 - Relays
+  - WOT relays
 - List of Clients
