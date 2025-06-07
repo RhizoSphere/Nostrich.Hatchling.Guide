@@ -3,6 +3,7 @@ A Nostr Guide for Hatchlings by Hatchlings
 
 ## Contents
 - Purpose
+- Quick Start Guide
 - Client Suggestion
 - Account Setup
   - About npub and nsec
