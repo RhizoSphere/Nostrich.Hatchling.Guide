@@ -23,3 +23,19 @@ A Nostr Guide for Hatchlings by Hatchlings
 - Relays
   - WOT relays
 - List of Clients
+
+---
+
+## Purpose
+
+---
+
+## Quick Start Guide
+
+---
+
+## Client Suggestion
+### Android Clients
+### iPhone Client(s)
+### Desktop Clients
+### Web Clients
