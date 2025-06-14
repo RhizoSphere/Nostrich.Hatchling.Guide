@@ -72,17 +72,22 @@ Clients allow users to interact with the Nostr network. For those unfamiliar wit
 ### Products & Services
 ## ALL CAPS
 ## Hashtagr
-## The Protocol
+## The Nostr Protocol
 ## NIPs
 ## Relays
 ### Public Relays
+These relays are free for all users and are run by enthusiasts who make their servers available without cost. They help bootstrap the network and make it easier for users to onboard without dealing with technical issues.
+Public relays are likely the type users interact with the most because clients often have them connected as default options.
 ### Private Relays
+A private relay can be set up by an individual or a group, allowing them to host their information or restrict access to a select few individuals. This provides more control over the data and can be used for personal or small group communication.
 #### WOT relays
 ### Paid Relays
+As the protocol scales, paid relays could become a premium service for users who require more resources. These relays might offer high bandwidth support, data archiving, content filtering, and protection against spam. Paid relays could be particularly useful for users who create a lot of content or have a large following.
 ### Whitelisted Relays
+These relays are used by companies or communities that wish to keep their communication in a gated community. Whitelisting relay owners could be the backbone for clients offering private invite-only groups, similar to Facebook Groups or paid Telegram and Discord servers. Users would need to apply, pay a fee, or both to gain access.
 ### Specialized Relays
+As the Nostr ecosystem evolves, relays could become specialized to handle specific types of data. For example, a relay could host short-form content, high scores for games, long-form content for bloggers, rating reviews, newsletter subscriptions, or fantasy football bets. This specialization allows for more tailored and efficient data management.
 ## List of Clients
 Clients are interfaces used by users to interact with Nostr, such as web clients and mobile apps. These clients can connect to multiple relays, which are backend servers that receive, store, and broadcast messages to connected clients. Relays cannot scale and cannot communicate with each other, but they can be chosen by users to connect to.
-
-(table)
+(table) 
 ## Nostr Based Services
