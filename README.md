@@ -1,9 +1,11 @@
 # Nostrich Hatchling Guide
 A Nostr Guide for Hatchlings by Hatchlings 
-<!-- document ver 0.2.8 -->
+<!-- document ver 0.2.9
+- seperate quick start and full guide
+-->
 ## Contents
 - Purpose
-- Quick Start Guide
+- QUICK START GUIDE
 - What Is NOSTR?
 - Client Suggestion
 - Account Setup
@@ -33,11 +35,11 @@ A Nostr Guide for Hatchlings by Hatchlings
 - Nostr Based Services
 ---
 
-## Purpose
+## Document Purpose
 
 ---
 
-## Quick Start Guide
+# QUICK START GUIDE
 
 ---
 
@@ -47,13 +49,12 @@ It is designed to provide a censorship-resistant platform for sharing informatio
 
 ---
 
-# Quick Start Guide
 ## Client 
 Clients allow users to interact with the Nostr network. For those unfamiliar with decentralized and/or federated services this means you have a choice in which client to use, similar to the multiple choices of web browsers used to view websites. The following is a list of recommended clients for those new to Nostr. They are selected for their stability and user base.
 ## Account Creation
 ## Your Feed
 ## Backup
-# Guide Continuation 
+# GUIDE CONTINUATION
 ## Client Suggestion
 ### Android Clients
 ### iPhone Client(s)
