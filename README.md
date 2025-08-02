@@ -1,10 +1,11 @@
 # Nostrich Hatchling Guide
 A Nostr Guide for Hatchlings by Hatchlings 
-<!-- document ver 0.2.9
+<!-- document ver 0.2.10
 - seperate quick start and full guide
 -->
 ## Contents
 - Purpose
+- Other Guides
 - QUICK START GUIDE
 - What Is NOSTR?
 - Client Suggestion
@@ -36,6 +37,11 @@ A Nostr Guide for Hatchlings by Hatchlings
 ---
 
 ## Document Purpose
+
+---
+
+## Other Guides
+- <a href="https://github.com/vishalxl/nostr_console/discussions/31">What Is Nostr, And How To Start Using It</a> by <a href="https://github.com/vishalxl">@vishalxl</a>  
 
 ---
 
